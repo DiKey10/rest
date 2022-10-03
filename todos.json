@@ -13,14 +13,14 @@
   },
     {
     "id": 3,
-    "title": "Python",
-    "description": "Dekoratory",
+    "title": "Wszak to jest prawilna ksiazka",
+    "description": "SF,Szalone",
     "done": false
   },
     {
     "id": 4,
-    "title": "Python",
-    "description": "Dekoratory",
+    "title": "Tylko Szaleniec biega",
+    "description": "biografia",
     "done": false
   }
 ]
